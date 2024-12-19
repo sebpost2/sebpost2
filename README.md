@@ -63,7 +63,6 @@ On my main profile, I’ve worked on diverse projects, including prototypes and 
 - **FLITJAM (GDScript)**: A game inspired by the classic WORMS, exploring gameplay dynamics.
 - **App-Legal-Law (CSS)**: A forked project exploring UI/UX improvements.
 - **CAT-NIP-PostreV2 (GDScript)**: A playful project featuring a cat character in a game environment.
-- **IHC-PROYECTO (Video demos)**: Interfaces for improved human-computer interaction.
 - **Empresa_probando_torchgpipe (Python)**: Experiments with `torchgpipe` for model parallelism.
 - **Empresa_django (HTML)**: A basic Django project setup.
 - **NASA2023 (Python)**: Another NASA challenge-based prototype.
