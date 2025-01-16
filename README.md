@@ -72,10 +72,4 @@ On my main profile, I’ve worked on diverse projects, including prototypes and 
 
 ---
 
-## Future Directions
-
-I’m looking to align my research and development efforts towards integrating AI into the gaming experience, focusing on player emotion recognition and adaptive gameplay. By understanding how players feel during specific in-game events, we can tailor content dynamically—providing more engaging, supportive, or challenging experiences.
-
-If you share similar interests, want to collaborate, or simply chat about game AI and graphics, feel free to reach out via email.
-
 **Thanks for visiting!**
