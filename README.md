@@ -1,75 +1,71 @@
-# Hi there! 👋
+# Hi, I'm Sebastián 👋
 
-I'm Sebastián, a passionate developer and researcher from Peru. My interests span across **artificial intelligence**, **video game development**, **computer graphics**, and **cutting-edge programming technologies**. I’m currently exploring how AI can be leveraged within interactive experiences—such as estimating player emotions using psychological models to better understand player states and enhance gameplay experiences.
+  Junior software developer from Arequipa, Peru, focused on **AI-powered automation** and **full-stack development**. I like
+   building small, end-to-end systems that solve real problems with LLMs and APIs — not impressive on paper, useful in
+  practice.
 
-**Email:** [sebpost02@gmail.com](mailto:sebpost02@gmail.com)
+  📧 [sebpost02@gmail.com](mailto:sebpost02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 🌎
+  [getonboard](https://www.getonbrd.com/usuarios/sebpost2) · Computer Science @ [UCSP](https://ucsp.edu.pe) (2020 – 2025)
 
----
+  ---
 
-## About Me
+  ## 🛠️  Currently building with
 
-- **Academic Background:**  
-  I have a strong foundation in computer science, with a focus on AI, human-action recognition, and real-time interactions. My previous thesis work involved integrating **AlphaPose** and **TD-GCN** for enhanced human action recognition in contexts like surveillance and video games. While that research demonstrated the potential of combining pose estimation and temporal dynamics modeling, I’m now transitioning toward a more player-centric approach—exploring how AI can interpret player emotions to adapt in-game experiences.
+  **Languages:** Python · TypeScript · PHP · C++
+  **Backend:** FastAPI / async httpx · Laravel 11 · Odoo 19 · Node.js
+  **Frontend:** Next.js 16 · Vue 3 · React · Tailwind
+  **Data & AI:** PostgreSQL (Neon) · Groq (Llama 3.x) · Vercel AI SDK · LLM tool-use / agents
+  **Infra:** Vercel · GitHub Actions cron · Docker · Git/GitLab CI
 
-- **Programming Languages I Enjoy:**  
-  - **C++**: For high-performance computing and graphics.
-  - **Python**: For rapid prototyping in AI, machine learning, and data analysis.
-  - **TypeScript / JavaScript**: For building scalable and maintainable front-end and back-end applications.
-  
-- **Interests:**  
-  - **Artificial Intelligence & Machine Learning**  
-  - **Computer Graphics & Real-Time Rendering**  
-  - **Game Development & Interactive Applications**  
-  - **Data-Driven Gameplay Analytics**
+  ---
 
----
+  ## 💼 Experience
 
-## Highlighted University Work
+  **Inbrasol Web Services** — *Odoo Developer (Nov 2025 – Apr 2026)*
+  Custom Odoo 19 modules in Python/XML/QWeb. Built the Peruvian electronic carrier waybill (GRE Tipo 31, UBL 2.1 SUNAT) and
+  an ISO-quotation CPQ engine with role-based effort, commissions and 9 dynamic proposal templates.
 
-I maintain an organization containing a variety of projects from my university assignments:  
-[**Sebpost2-UCSP Organization**](https://github.com/orgs/Sebpost2-UCSP/repositories)
+  **Neo Plus Business** — *Software Developer Intern (Feb – May 2025)*
+  Laravel 11 API refactor, dual-layer auth (SCRAM-SHA-256 + JWT) with crypto encapsulated at the DB, and MessagePack
+  adoption that cut response sizes by ~60%. Vue 3 components, GitLab CI peer review.
 
-These repositories showcase the breadth of my academic work, ranging from computational biology and big data to algorithms, data structures, and computer graphics. They reflect a solid grounding in core CS concepts, applied programming, and problem-solving:
+  ---
 
-- **C++ Projects:**  
-  - Sem09-MolecularBiology  
-  - Sem07-ComputerGraphics  
-  - Sem07-ProgrammingLanguages  
-  - Sem06-CompetitiveProgramming  
-  - Sem06-AdvancedDataStructures  
-  - Sem05-AnalysisAndDesignOfAlgorithms  
-  - Sem04-AlgorithmsAndDataStructures  
-  - Sem03-AbstractAlgebra
+  ## 🚀 Portfolio — AI & automation
 
-- **Python Projects:**  
-  - Sem09-BigData
+  Each project is small, live, and free to run. The links go to the source; READMEs document the design decisions.
 
-- **Other Technologies:**  
-  - Sem08-ParallelProgramming (C)  
-  - Sem06-SoftwareEngineering (JavaScript)  
-  - Sem05-NumericalAnalysis (MATLAB)  
-  - Sem04-Database (PHP)  
-  - Sem03-PlatformBasedDevelopment (EJS)  
-  - Sem10-Enterprise2 (Various)
+  | Project | What it does | Stack |
+  |---|---|---|
+  | **[invoice-extractor](https://github.com/sebpost2/invoice-extractor)** | Upload a receipt photo → Groq Vision extracts
+  items/totals → dashboard + CSV export | Next.js 16 · Groq Llama Vision · Neon · Vercel |
+  | **[invoice-chat](https://github.com/sebpost2/invoice-chat)** | Agent that answers questions over the extracted receipts
+  using tool-use (SQL + math) | Vercel AI SDK v6 · Groq gpt-oss-120b · Next.js |
+  | **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** | Scrapes job boards every 12h, scores fit against my
+   CV with an LLM, syncs to Notion + Telegram digest | Python · Groq · Neon · Notion API · GitHub Actions cron |
 
----
+  Pinned above — open any of them to see live deployments, design notes and source.
 
-## Personal Projects on My Main Profile
+  ---
 
-On my main profile, I’ve worked on diverse projects, including prototypes and hackathon submissions:
+  ## 🎓 Academic background
 
-- **CLOUD-FINAL (Python)**: Exploring cloud-based integrations.
-- **NASA2024 (Python)**: A project for the NASA SpaceUp 2024 Hackathon, focusing on microgravity challenges.
-- **FLITJAM (GDScript)**: A game inspired by the classic WORMS, exploring gameplay dynamics.
-- **App-Legal-Law (CSS)**: A forked project exploring UI/UX improvements.
-- **CAT-NIP-PostreV2 (GDScript)**: A playful project featuring a cat character in a game environment.
-- **Empresa_probando_torchgpipe (Python)**: Experiments with `torchgpipe` for model parallelism.
-- **Empresa_django (HTML)**: A basic Django project setup.
-- **NASA2023 (Python)**: Another NASA challenge-based prototype.
-- **Taller_web_pagina (JavaScript)**: Web development exercises.
-- **opengl-tutorials (C++ Fork)**: OpenGL tutorials for advanced rendering and graphics programming.
-- **sebpost2 (Configuration files)**: Profile configuration and setups.
+  Computer Science at **Universidad Católica San Pablo** (Arequipa, 2020 – 2025). Coursework spanned algorithms, parallel
+  computing, computer graphics, databases and AI. Five years of project-based learning consolidated my engineering judgment
+  more than my résumé suggests.
 
----
+  Selected university work lives in the [**Sebpost2-UCSP organization**](https://github.com/orgs/Sebpost2-UCSP/repositories)
+   — algorithms in C++, big-data with AWS/GCP in Python, numerical analysis in MATLAB, etc.
 
-**Thanks for visiting!**
+  ---
+
+  ## 🎮 Outside the day job
+
+  - **NASA Space Apps Challenge** participant in 2023 and 2024 (microgravity tracks).
+  - Lead programmer on **Cat-Nip**, a 2D Godot/GDScript game — enemy AI, final boss and pixel-art animation pipeline.
+  - Long-running curiosity for real-time graphics, computer vision and player-experience AI (my thesis explored pose-based
+  action recognition with AlphaPose + TD-GCN).
+
+  ---
+
+  Thanks for stopping by — happy to chat about Python, LLM agents, Odoo or Godot.
