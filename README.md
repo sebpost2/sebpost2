@@ -4,8 +4,7 @@
   Comfortable across the stack — TypeScript on the front, Python or PHP on the back, LLMs in the middle when they earn their
    place. I like building small, end-to-end systems that solve real problems instead of impressive demos that ship nothing.
 
-  📧 [sebpost02@gmail.com](mailto:sebpost02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 🌎
-  [getonboard](https://www.getonbrd.com/usuarios/sebpost2) · 🎓 Computer Science @ [UCSP](https://ucsp.edu.pe) (2020 – 2025)
+  📧 [sebpost02@gmail.com](mailto:sebpost02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 🎓 Computer Science @ [UCSP](https://ucsp.edu.pe) (2020 – 2025)
 
   ---
 
