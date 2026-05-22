@@ -4,8 +4,7 @@
    building small, end-to-end systems that solve real problems with LLMs and APIs — not impressive on paper, useful in
   practice.
 
-  📧 [sebpost02@gmail.com](mailto:sebpost02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 🌎
-  [getonboard](https://www.getonbrd.com/usuarios/sebpost2) · Computer Science @ [UCSP](https://ucsp.edu.pe) (2020 – 2025)
+  📧 [sebpost02@gmail.com](mailto:sebpost02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · Computer Science @ [UCSP](https://ucsp.edu.pe) (2020 – 2025)
 
   ---
 
