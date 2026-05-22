@@ -42,9 +42,10 @@
   - **[invoice-chat](https://github.com/sebpost2/invoice-chat)** ([live demo](https://invoice-chat-zeta.vercel.app)) — Agent
    that answers questions over the extracted receipts using LLM tool-use (SQL + math). *Stack:* Vercel AI SDK v6 · Groq
   gpt-oss-120b · Next.js.
-  - **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** ([Actions
-  runs](https://github.com/sebpost2/job-alert-agent/actions)) — Scrapes job boards every 12h, scores fit vs. my CV with an
-  LLM, syncs to Notion and Telegram digest. *Stack:* Python · Groq · Neon · Notion API · GitHub Actions cron.
+  - **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** ([live 
+  dashboard](https://bevel-rose-8cb.notion.site/Job-Alerts-3674d098c1e7807aafe0cf6a3507e526)) — Scrapes job boards every
+  12h, scores fit vs. my CV with an LLM, syncs to Notion and Telegram digest. *Stack:* Python · Groq · Neon · Notion API ·
+  GitHub Actions cron.
 
   ### Full-stack
 
