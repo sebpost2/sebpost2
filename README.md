@@ -30,9 +30,11 @@
 
   ---
 
-  ## 🚀 Portfolio — AI & automation
+  ## 🚀 Portfolio
 
-  Each project is small, live, and free to run. The links go to the source; READMEs document the design decisions.
+  Each project is live, open-source and free to run.
+
+  ### AI & automation
 
   | Project | What it does | Stack |
   |---|---|---|
@@ -43,7 +45,13 @@
   | **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** | Scrapes job boards every 12h, scores fit against my
    CV with an LLM, syncs to Notion + Telegram digest | Python · Groq · Neon · Notion API · GitHub Actions cron |
 
-  Pinned above — open any of them to see live deployments, design notes and source.
+  ### Full-stack
+
+  | Project | What it does | Stack |
+  |---|---|---|
+  | **[finance-tracker_v2](https://github.com/sebpost2/finance-tracker_v2)** ·
+  [live](https://finance-tracker-v2-sebpost2s-projects.vercel.app) | Personal finance tracker with categories, budgets and
+  recurring transactions. CRUD + auth + dashboards. | Next.js 16 · Prisma · Supabase · Vercel · Playwright e2e |
 
   ---
 
