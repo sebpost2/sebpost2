@@ -73,6 +73,3 @@
   - Lead programmer on **Cat-Nip**, a 2D Godot/GDScript game — enemy AI, final boss and pixel-art animation pipeline.
   - Long-running curiosity for real-time graphics, computer vision and player-experience AI.
 
-  ---
-
-  Thanks for stopping by — happy to chat about Python, LLM agents, Odoo or Godot.
