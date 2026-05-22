@@ -37,22 +37,19 @@
 
   ### AI & automation
 
-  | Project | What it does | Stack |
-  | --- | --- | --- |
-  | **[invoice-extractor](https://github.com/sebpost2/invoice-extractor)** | Receipt photo → Groq Vision extracts items and
-  totals → dashboard + CSV export | Next.js 16 · Groq Llama Vision · Neon · Vercel |
-  | **[invoice-chat](https://github.com/sebpost2/invoice-chat)** | Agent that answers questions over the extracted receipts
-  using LLM tool-use (SQL + math) | Vercel AI SDK v6 · Groq gpt-oss-120b · Next.js |
-  | **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** | Scrapes job boards every 12h, scores fit vs. my CV
-  with an LLM, syncs to Notion + Telegram digest | Python · Groq · Neon · Notion API · GitHub Actions cron |
+  - **[invoice-extractor](https://github.com/sebpost2/invoice-extractor)** — Receipt photo → Groq Vision extracts items and
+  totals, dashboard with CSV export. *Stack:* Next.js 16 · Groq Llama Vision · Neon · Vercel.
+  - **[invoice-chat](https://github.com/sebpost2/invoice-chat)** — Agent that answers questions over the extracted receipts
+  using LLM tool-use (SQL + math). *Stack:* Vercel AI SDK v6 · Groq gpt-oss-120b · Next.js.
+  - **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** — Scrapes job boards every 12h, scores fit vs. my CV
+  with an LLM, syncs to Notion and Telegram digest. *Stack:* Python · Groq · Neon · Notion API · GitHub Actions cron.
 
   ### Full-stack
 
-  | Project | What it does | Stack |
-  | --- | --- | --- |
-  | **[finance-tracker_v2](https://github.com/sebpost2/finance-tracker_v2)**
-  ([live](https://finance-tracker-v2-sebpost2s-projects.vercel.app)) | Personal finance tracker — categories, budgets,
-  recurring transactions, dashboards. CRUD + auth + e2e tests. | Next.js 16 · Prisma · Supabase · Vercel · Playwright |
+  - **[finance-tracker_v2](https://github.com/sebpost2/finance-tracker_v2)** ([live
+  demo](https://finance-tracker-v2-sebpost2s-projects.vercel.app)) — Personal finance tracker: categories, budgets,
+  recurring transactions, dashboards. CRUD + auth + e2e tests. *Stack:* Next.js 16 · Prisma · Supabase · Vercel ·
+  Playwright.
 
   ---
 
