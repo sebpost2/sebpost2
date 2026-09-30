@@ -1,75 +1,43 @@
-# Hi, I'm Sebastián 👋
+# Sebastián Postigo
 
-  Junior software developer from Arequipa, Peru, focused on **AI-powered automation** and **full-stack web apps**.
-  Comfortable across the stack — TypeScript on the front, Python or PHP on the back, LLMs in the middle when they earn their
-   place. I like building small, end-to-end systems that solve real problems instead of impressive demos that ship nothing.
+**Full-stack developer · Python · Java · TypeScript · Odoo 19** — Arequipa, Peru (UTC-5).
+Open to full-time, contract and remote roles.
 
-  📧 [sebpost02@gmail.com](mailto:sebpost02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 🎓 Computer Science @ [UCSP](https://ucsp.edu.pe) (2020 – 2025)
+🌐 [sebpostigo.vercel.app](https://sebpostigo.vercel.app) · 📄 [CV (ES)](https://sebpostigo.vercel.app/cv.pdf) / [CV (EN)](https://sebpostigo.vercel.app/cv-en.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 📧 sebpost02@gmail.com
 
-  ---
+---
 
-  ## 🛠️  Currently building with
+### Experience
 
-  **Languages:** Python · TypeScript · PHP · C++
-  **Backend:** FastAPI / async httpx · Laravel 11 · Odoo 19 · Node.js
-  **Frontend:** Next.js 16 · Vue 3 · React · Tailwind
-  **Data & AI:** PostgreSQL (Neon / Supabase) · Prisma · Groq (Llama 3.x) · Vercel AI SDK · LLM tool-use & agents
-  **Infra:** Vercel · GitHub Actions cron · Docker · Git / GitLab CI
+**Odoo 19 Developer** — Inbrasol Web Services · *Nov 2025 – Apr 2026*
+- Custom Odoo 19 modules (Python/XML/QWeb) for quoting, bulk item handling, pricing and transport, across several clients.
+- Built an ISO quotation calculator (CPQ) with role-based effort, commissions and nine dynamic proposal templates.
+- Built GRE Tipo 31 (SUNAT carrier waybill) XML generation in UBL 2.1 from transport orders (not yet validated with SUNAT).
 
-  ---
+**Software Developer Intern** — Neo Plus Business · *Feb – May 2025*
+- Laravel 11 REST API refactor; JWT + SCRAM-SHA-256 auth with the cryptography kept in the database layer.
+- Cut API response sizes by ~60% by replacing JSON with MessagePack.
 
-  ## 💼 Experience
+### Selected projects
 
-  **Inbrasol Web Services** — *Odoo Developer (Nov 2025 – Apr 2026)*
-  Custom Odoo 19 modules in Python/XML/QWeb. Built the Peruvian electronic carrier waybill (GRE Tipo 31, UBL 2.1 SUNAT) and
-  an ISO-quotation CPQ engine with role-based effort, commissions and 9 dynamic proposal templates.
+| Project | What it shows | Proof |
+|---|---|---|
+| [rental-dashboard-spring](https://github.com/sebpost2/rental-dashboard-spring) | Java 25 / Spring Boot 4 API: Flyway, JPA, Spring Security (JWT in httpOnly cookie), SQL-side reports | 65 tests on Testcontainers, 80% coverage gate · [demo](https://rental-dashboard-java.vercel.app/login) |
+| [sale_tiered_pricing](https://github.com/sebpost2/sale_tiered_pricing) | Installable Odoo 19 addon: volume-discount tiers + aggregate margin guard | 18 TransactionCase tests, runs in Docker |
+| [job-alert-agent](https://github.com/sebpost2/job-alert-agent) | Python pipeline: scrapes job boards every 12h, LLM scoring, Notion + Telegram digest | 168 pytest tests, 97% coverage, mypy --strict · [dashboard](https://bevel-rose-8cb.notion.site/Job-Alert-Agent-Live-Dashboard-3674d098c1e7807aafe0cf6a3507e526) |
+| [invoice-chat](https://github.com/sebpost2/invoice-chat) | LLM agent with tool use (SQL, aggregates) over receipt data | 24 Promptfoo eval cases · [demo](https://invoice-chat-zeta.vercel.app) |
+| [invoice-extractor](https://github.com/sebpost2/invoice-extractor) | Receipt photo → vision LLM → structured data; semantic search on pgvector (HNSW) | CI on every push · [demo](https://invoice-extractor-gules.vercel.app) |
 
-  **Neo Plus Business** — *Software Developer Intern (Feb – May 2025)*
-  Laravel 11 API refactor, dual-layer auth (SCRAM-SHA-256 + JWT) with crypto encapsulated at the DB, and MessagePack
-  adoption that cut response sizes by ~60%. Vue 3 components, GitLab CI peer review.
+More (with problem → approach → result write-ups) at **[sebpostigo.vercel.app](https://sebpostigo.vercel.app)**.
 
-  ---
+### Skills
 
-  ## 🚀 Portfolio
+**Backend:** Python (FastAPI, Pydantic), Java (Spring Boot, JPA), PHP (Laravel), Odoo 19 (ORM, QWeb), REST, JWT/RBAC
+**Data & AI:** PostgreSQL, pgvector, SQL, Prisma, DuckDB · LLM tool use, embeddings, evals (Promptfoo), Groq, Vercel AI SDK
+**Frontend:** TypeScript, React, Next.js, Tailwind
+**Quality & infra:** pytest, JUnit + Testcontainers, Vitest, Playwright, mypy --strict · GitHub Actions, Docker, Vercel, Render
 
-  Each project is live, open-source and free to run.
+### Education
 
-  ### AI & automation
-
-  - **[invoice-extractor](https://github.com/sebpost2/invoice-extractor)** ([live
-  demo](https://invoice-extractor-gules.vercel.app)) — Receipt photo → Groq Vision extracts items and totals, dashboard with
-   CSV export. *Stack:* Next.js 16 · Groq Llama Vision · Neon · Vercel.
-  - **[invoice-chat](https://github.com/sebpost2/invoice-chat)** ([live demo](https://invoice-chat-zeta.vercel.app)) — Agent
-   that answers questions over the extracted receipts using LLM tool-use (SQL + math). *Stack:* Vercel AI SDK v6 · Groq
-  gpt-oss-120b · Next.js.
-  - **[job-alert-agent](https://github.com/sebpost2/job-alert-agent)** ([live 
-  dashboard](https://bevel-rose-8cb.notion.site/Job-Alerts-3674d098c1e7807aafe0cf6a3507e526)) — Scrapes job boards every
-  12h, scores fit vs. my CV with an LLM, syncs to Notion and Telegram digest. *Stack:* Python · Groq · Neon · Notion API ·
-  GitHub Actions cron.
-
-  ### Full-stack
-
-  - **[finance-tracker_v2](https://github.com/sebpost2/finance-tracker_v2)** ([live
-  demo](https://finance-tracker-v2-sebpost2s-projects.vercel.app)) — Personal finance tracker: categories, budgets,
-  recurring transactions, dashboards. CRUD + auth + e2e tests. *Stack:* Next.js 16 · Prisma · Supabase · Vercel ·
-  Playwright.
-
-  ---
-
-  ## 🎓 Academic background
-
-  Computer Science at **Universidad Católica San Pablo** (Arequipa, 2020 – 2025). Coursework spanned algorithms, parallel
-  computing, computer graphics, databases and AI. Five years of project-based learning consolidated engineering judgment
-  more than my résumé suggests.
-
-  Selected university work lives in the [**Sebpost2-UCSP organization**](https://github.com/orgs/Sebpost2-UCSP/repositories)
-   — algorithms in C++, big-data with AWS/GCP in Python, numerical analysis in MATLAB, and more.
-
-  ---
-
-  ## 🎮 Outside the day job
-
-  - **NASA Space Apps Challenge** participant in 2023 and 2024 (microgravity tracks).
-  - Lead programmer on **Cat-Nip**, a 2D Godot/GDScript game — enemy AI, final boss and pixel-art animation pipeline.
-  - Long-running curiosity for real-time graphics, computer vision and player-experience AI.
-
+B.Sc. Computer Science — Universidad Católica San Pablo, Arequipa (2020 – 2025) · Spanish (native), English (intermediate)
+Also: NASA Space Apps 2023 & 2024 · lead programmer on [Cat-Nip](https://github.com/sebpost2/CAT-NIP-PostreV2), a 2D Godot game.
