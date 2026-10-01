@@ -10,12 +10,13 @@ Open to full-time, contract and remote roles.
 ### Experience
 
 **Odoo 19 Developer** — Inbrasol Web Services · *Nov 2025 – Apr 2026*
-- Custom Odoo 19 modules (Python/XML/QWeb) for quoting, bulk item handling, pricing and transport, across several clients.
-- Built an ISO quotation calculator (CPQ) with role-based effort, commissions and nine dynamic proposal templates.
+- Custom Odoo 19 modules for 8+ clients (veterinary and IT-hardware retail, facilities services, ISO consulting, mining valves): RUC/DNI lookup, supervisor-approved purchase requests, a supplier price comparison for bulk purchases, product laboratories, dining reservations.
+- Built an ISO certification quoting engine (CPQ) that prices by sites, headcount and ISO standard, with nine dynamic proposal and contract templates.
+- QWeb invoice, ticket, inventory and transport formats; ported modules from earlier Odoo versions to Odoo 19.
 - Built GRE Tipo 31 (SUNAT carrier waybill) XML generation in UBL 2.1 from transport orders (not yet validated with SUNAT).
 
 **Software Developer Intern** — Neo Plus Business · *Feb – May 2025*
-- Laravel 11 REST API refactor; JWT + SCRAM-SHA-256 auth with the cryptography kept in the database layer.
+- Reorganized a Laravel 11 REST API by domain; JWT + SCRAM-SHA-256 auth with the cryptography kept in the database layer.
 - Cut API response sizes by ~60% by replacing JSON with MessagePack.
 
 ### Selected projects
