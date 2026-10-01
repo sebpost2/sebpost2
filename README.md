@@ -1,7 +1,8 @@
 # Sebastián Postigo
 
-**Full-stack developer · Python · Java · TypeScript · Odoo 19** — Arequipa, Peru (UTC-5).
-Open to full-time, contract and remote roles.
+**Backend & Odoo developer · Python · Java · PostgreSQL** — Arequipa, Peru (UTC-5).
+Looking for a backend or Odoo developer role: full-time or contract, in Peru or remote.
+Since May 2026 I've been building full-time: Ghostly, a personal-finance app in private beta, and the projects below.
 
 🌐 [sebpostigo.vercel.app](https://sebpostigo.vercel.app) · 📄 [CV (ES)](https://sebpostigo.vercel.app/cv.pdf) / [CV (EN)](https://sebpostigo.vercel.app/cv-en.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/sebpostigo) · 📧 sebpost02@gmail.com
 
